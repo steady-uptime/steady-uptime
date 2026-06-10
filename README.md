@@ -27,7 +27,7 @@ My goal is to build ML systems that are **reliable, observable, scalable, and ma
 
 - Preparing for the **PMLE (Professional Machine Learning Engineer)** certification  
 - Completed the **Hugging Face LLM & Transformers Course**
-- Completed 12 courses on **Kaggle**
+- Completed many courses on **Kaggle**
 - Building ML Ops–aligned projects that demonstrate real‑world engineering skills  
 - Expanding knowledge in model deployment, monitoring, and lifecycle management  
 
