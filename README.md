@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Steady Uptime**
 
-ML Ops Engineer (in training) with a strong foundation in systems engineering, backend infrastructure, and GPU‑accelerated machine learning. I’m focused on building reliable, reproducible, and production‑ready ML workflows — from data pipelines to model deployment.
+ML Ops Engineer *in training* with a strong foundation in systems engineering, backend infrastructure, and GPU‑accelerated machine learning. I’m focused on building reliable, reproducible, and production‑ready ML workflows — from data pipelines to model deployment.
 
 My background includes 20+ years in enterprise systems and integration engineering, including roles at **Bank of America** (Server Engineering, Desktop Engineering, and Active Directory teams) and **Microsoft** (SharePoint, CRM, and SQL Server - specializing in performance issues). I’m now applying that experience to modern ML Ops practices and LLM development.
 
