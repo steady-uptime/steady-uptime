@@ -66,7 +66,7 @@ My goal is to build ML systems that are **reliable, observable, scalable, and ma
 - **Tokenizer & Embedding Exploration**  
   Understanding tokenization internals and vocabulary effects on model performance.
 
-- **LLM Fine‑Tuning on RTX 2080**  
+- **LLM Fine‑Tuning on local NVidia RTX**  
   Practical small‑model fine‑tuning with optimization for limited VRAM.
 
 - **WSL2 GPU Training Environment**  
